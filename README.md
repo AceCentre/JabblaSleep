@@ -1,6 +1,8 @@
 # JabblaSleep
 Small app designed for one headswitch to sleep a AAC device and wake power chair. 
 
+![Overview](overview.png)
+
 ##Ingredients!
 
 * 2 x Switch leads that are split. They have one Female end and two Male Jacks. 
