@@ -1,6 +1,8 @@
 # JabblaSleep
 Small app designed for one headswitch to sleep a AAC device and wake power chair. 
 
+[Download the files here](https://github.com/ACECentre/JabblaSleep/releases/download/1/StandbyOnSub.zip)
+
 ![Overview](https://raw.githubusercontent.com/ACECentre/JabblaSleep/master/Overview.png)
 
 ##Ingredients!
