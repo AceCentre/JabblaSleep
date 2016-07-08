@@ -3,9 +3,9 @@ Small app designed for one headswitch to sleep a AAC device and wake power chair
 
 ##Ingredients!
 
-2 x Switch leads that are split. They have one Female end and two Male Jacks. 
-Software: standby.bat, StandbyOnSub.exe 
-And the Jabbla device options software that will be on the device - it looks like a small O and can be found in the task bar. 
+* 2 x Switch leads that are split. They have one Female end and two Male Jacks. 
+* Software: standby.bat, StandbyOnSub.exe 
+* And the Jabbla device options software that will be on the device - it looks like a small O and can be found in the task bar. 
 
 
 ##Recipe!
